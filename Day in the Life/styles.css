@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: antiquewhite;
+  min-height: 100%;
+  margin: 30;
+  padding-top: 10rem;
+}
+a {color:#a73f00
+}
+#into {text-align:center;
+}
+h1 {font-family:Helvetica, Arial, Sans-serif;
+  Font-size:30px;
+  text-transform:uppercase;
+  Text-decoration:underline;
+  Color:#fa8072
+header {
+  position:fixed;
+  padding:1rem;
+  text-align: center;
+}
+
+}
+
+h2 {
+
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+a {
+
+}
+
+nav {
+}
